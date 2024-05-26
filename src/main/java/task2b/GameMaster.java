@@ -1,4 +1,4 @@
-package task2a;
+package task2b;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -9,12 +9,18 @@ import java.net.Socket;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+/**
+ * Note: The logical clocks are only incremented
+ * whenever messages are sent or received. This is
+ * why according to the log messages a new round
+ * starts supposedly at the same time that the last
+ * one ended.
+ */
 
 public class GameMaster {
     private static int PORT = 12345;
@@ -24,6 +30,7 @@ public class GameMaster {
     private List<PlayerSubmission> currentSubmissions;
     private static final String JSON_FILE_PATH = "game_rounds.json";
     private int roundID = 0;
+    private final LamportClock clock = new LamportClock();
 
     public static void main(String[] args) {
         // Parse CLI args
@@ -66,9 +73,9 @@ public class GameMaster {
      */
     public void runGame() {
         while (true) {
-            String roundStart = LocalDateTime.now().toString();
-            System.out.println("Round started at time " + roundStart);
+            System.out.println("Round started at time " + clock.getTime());
             currentSubmissions = new ArrayList<>();
+            int roundStart = clock.getTime();
             broadcast("START");
             try {
                 Thread.sleep(DAUER_DER_RUNDE * 1000L);
@@ -76,8 +83,8 @@ public class GameMaster {
                 throw new RuntimeException(e);
             }
             broadcast("STOP");
-            String roundEnd = LocalDateTime.now().toString();
-            System.out.println("Round ended at time " + roundEnd);
+            int roundEnd = clock.getTime();
+            System.out.println("Round ended at time " + clock.getTime());
             PlayerSubmission winner = currentSubmissions.stream()
                     .max(Comparator.comparing(PlayerSubmission::diceValue)).orElse(null);
 
@@ -93,7 +100,7 @@ public class GameMaster {
         for (Socket socket : playerSockets) {
             try {
                 PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-                out.println(message);
+                out.println(message + ";" + clock.sendEvent());
 
             } catch (IOException e) {
                 e.printStackTrace();
@@ -113,9 +120,13 @@ public class GameMaster {
         try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(JSON_FILE_PATH), java.nio.file.StandardOpenOption.CREATE)) {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             gson.toJson(roundLog, writer);
+
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+    public LamportClock getClock() {
+        return clock;
     }
 
     /**
@@ -155,17 +166,17 @@ public class GameMaster {
             public void run() {
                 try {
                     BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-
                     String inputLine;
                     while ((inputLine = in.readLine()) != null) {
                         String[] message = inputLine.split(";");
                         System.out.println(message[0] + " rolled " + message[1]);
+                        gameMaster.getClock().receiveEvent(Integer.parseInt(message[3]));
                         gameMaster.logPlayerSubmission(new PlayerSubmission(message[0], message[1], message[2]
-                                + "s", LocalDateTime.now().toString()));
+                                + "s", gameMaster.getClock().getTime()));
                     }
-
                     System.out.println("Player disconnected: " + clientSocket.getInetAddress());
                     clientSocket.close();
+
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -173,15 +184,16 @@ public class GameMaster {
         }
 
     // Data structure that represents a game round
-    private record GameRound(int roundID,
-                             String roundStartTime,
-                             String roundEndTime,
-                             List<PlayerSubmission> playerSubmissions,
-                             PlayerSubmission winningSubmission) {}
+    private record GameRound(
+            int roundID,
+            int roundStartTime,
+            int roundEndTime,
+            List<PlayerSubmission> playerSubmissions,
+            PlayerSubmission winningSubmission) {}
 
     // Data structure that represents a submission by the player
     public record PlayerSubmission(String playerName,
                                    String diceValue,
                                    String latency,
-                                   String receiveTimestamp) {}
+                                   int receiveTimestamp) {}
 }

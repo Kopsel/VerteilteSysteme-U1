@@ -1,0 +1,263 @@
+[
+  {
+    "roundID": 1,
+    "roundStartTime": "2024-05-26T13:01:55.849193700",
+    "roundEndTime": "2024-05-26T13:02:05.860192200",
+    "playerSubmissions": []
+  },
+  {
+    "roundID": 2,
+    "roundStartTime": "2024-05-26T13:02:05.863192800",
+    "roundEndTime": "2024-05-26T13:02:15.873779700",
+    "playerSubmissions": [
+      {
+        "playerName": "A",
+        "diceValue": "97",
+        "latency": "2s",
+        "receiveTimestamp": "2024-05-26T13:02:11.046783300"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "A",
+      "diceValue": "97",
+      "latency": "2s",
+      "receiveTimestamp": "2024-05-26T13:02:11.046783300"
+    }
+  },
+  {
+    "roundID": 3,
+    "roundStartTime": "2024-05-26T13:02:15.873779700",
+    "roundEndTime": "2024-05-26T13:02:25.877759700",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "18",
+        "latency": "10s",
+        "receiveTimestamp": "2024-05-26T13:02:15.991780400"
+      },
+      {
+        "playerName": "C",
+        "diceValue": "32",
+        "latency": "3s",
+        "receiveTimestamp": "2024-05-26T13:02:20.889760800"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "87",
+        "latency": "5s",
+        "receiveTimestamp": "2024-05-26T13:02:20.991759400"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "A",
+      "diceValue": "87",
+      "latency": "5s",
+      "receiveTimestamp": "2024-05-26T13:02:20.991759400"
+    }
+  },
+  {
+    "roundID": 4,
+    "roundStartTime": "2024-05-26T13:02:25.877759700",
+    "roundEndTime": "2024-05-26T13:02:35.892759600",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "72",
+        "latency": "8s",
+        "receiveTimestamp": "2024-05-26T13:02:25.991760900"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "50",
+        "latency": "5s",
+        "receiveTimestamp": "2024-05-26T13:02:31.041760100"
+      },
+      {
+        "playerName": "C",
+        "diceValue": "75",
+        "latency": "4s",
+        "receiveTimestamp": "2024-05-26T13:02:35.892759600"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "C",
+      "diceValue": "75",
+      "latency": "4s",
+      "receiveTimestamp": "2024-05-26T13:02:35.892759600"
+    }
+  },
+  {
+    "roundID": 5,
+    "roundStartTime": "2024-05-26T13:02:35.892759600",
+    "roundEndTime": "2024-05-26T13:02:45.907332900",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "1",
+        "latency": "9s",
+        "receiveTimestamp": "2024-05-26T13:02:36.011760400"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "95",
+        "latency": "1s",
+        "receiveTimestamp": "2024-05-26T13:02:41.071333800"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "A",
+      "diceValue": "95",
+      "latency": "1s",
+      "receiveTimestamp": "2024-05-26T13:02:41.071333800"
+    }
+  },
+  {
+    "roundID": 6,
+    "roundStartTime": "2024-05-26T13:02:45.907332900",
+    "roundEndTime": "2024-05-26T13:02:55.920333",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "65",
+        "latency": "8s",
+        "receiveTimestamp": "2024-05-26T13:02:46.021333600"
+      },
+      {
+        "playerName": "C",
+        "diceValue": "15",
+        "latency": "7s",
+        "receiveTimestamp": "2024-05-26T13:02:50.905333200"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "59",
+        "latency": "3s",
+        "receiveTimestamp": "2024-05-26T13:02:50.991333600"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "B",
+      "diceValue": "65",
+      "latency": "8s",
+      "receiveTimestamp": "2024-05-26T13:02:46.021333600"
+    }
+  },
+  {
+    "roundID": 7,
+    "roundStartTime": "2024-05-26T13:02:55.920333",
+    "roundEndTime": "2024-05-26T13:03:05.933333500",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "10",
+        "latency": "7s",
+        "receiveTimestamp": "2024-05-26T13:02:56.031333500"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "45",
+        "latency": "4s",
+        "receiveTimestamp": "2024-05-26T13:03:01.091332900"
+      },
+      {
+        "playerName": "C",
+        "diceValue": "22",
+        "latency": "10s",
+        "receiveTimestamp": "2024-05-26T13:03:05.917333800"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "A",
+      "diceValue": "45",
+      "latency": "4s",
+      "receiveTimestamp": "2024-05-26T13:03:01.091332900"
+    }
+  },
+  {
+    "roundID": 8,
+    "roundStartTime": "2024-05-26T13:03:05.933333500",
+    "roundEndTime": "2024-05-26T13:03:15.947333400",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "58",
+        "latency": "1s",
+        "receiveTimestamp": "2024-05-26T13:03:06.031333100"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "61",
+        "latency": "1s",
+        "receiveTimestamp": "2024-05-26T13:03:11.001332700"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "A",
+      "diceValue": "61",
+      "latency": "1s",
+      "receiveTimestamp": "2024-05-26T13:03:11.001332700"
+    }
+  },
+  {
+    "roundID": 9,
+    "roundStartTime": "2024-05-26T13:03:15.947333400",
+    "roundEndTime": "2024-05-26T13:03:25.949882800",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "96",
+        "latency": "5s",
+        "receiveTimestamp": "2024-05-26T13:03:16.041333400"
+      },
+      {
+        "playerName": "C",
+        "diceValue": "54",
+        "latency": "1s",
+        "receiveTimestamp": "2024-05-26T13:03:20.924335700"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "38",
+        "latency": "2s",
+        "receiveTimestamp": "2024-05-26T13:03:21.051333500"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "B",
+      "diceValue": "96",
+      "latency": "5s",
+      "receiveTimestamp": "2024-05-26T13:03:16.041333400"
+    }
+  },
+  {
+    "roundID": 10,
+    "roundStartTime": "2024-05-26T13:03:25.949882800",
+    "roundEndTime": "2024-05-26T13:03:35.957883200",
+    "playerSubmissions": [
+      {
+        "playerName": "B",
+        "diceValue": "64",
+        "latency": "5s",
+        "receiveTimestamp": "2024-05-26T13:03:26.061883500"
+      },
+      {
+        "playerName": "A",
+        "diceValue": "10",
+        "latency": "3s",
+        "receiveTimestamp": "2024-05-26T13:03:31.031884300"
+      },
+      {
+        "playerName": "C",
+        "diceValue": "41",
+        "latency": "8s",
+        "receiveTimestamp": "2024-05-26T13:03:35.925883"
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "B",
+      "diceValue": "64",
+      "latency": "5s",
+      "receiveTimestamp": "2024-05-26T13:03:26.061883500"
+    }
+  }
+]
