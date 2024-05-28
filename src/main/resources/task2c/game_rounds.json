@@ -1,0 +1,6116 @@
+[
+  {
+    "roundID": 1,
+    "roundStartTime": 0,
+    "roundEndTime": 1,
+    "playerSubmissions": []
+  },
+  {
+    "roundID": 2,
+    "roundStartTime": 1,
+    "roundEndTime": 5,
+    "playerSubmissions": []
+  },
+  {
+    "roundID": 3,
+    "roundStartTime": 5,
+    "roundEndTime": 15,
+    "playerSubmissions": [
+      {
+        "playerName": "Player1",
+        "diceValue": "95",
+        "latency": "8s",
+        "receiveTimestamp": 9
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "47",
+        "latency": "9s",
+        "receiveTimestamp": 12
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player1",
+      "diceValue": "95",
+      "latency": "8s",
+      "receiveTimestamp": 9
+    }
+  },
+  {
+    "roundID": 4,
+    "roundStartTime": 15,
+    "roundEndTime": 29,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "35",
+        "latency": "3s",
+        "receiveTimestamp": 21
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "32",
+        "latency": "10s",
+        "receiveTimestamp": 22
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "11",
+        "latency": "10s",
+        "receiveTimestamp": 25
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player3",
+      "diceValue": "35",
+      "latency": "3s",
+      "receiveTimestamp": 21
+    }
+  },
+  {
+    "roundID": 5,
+    "roundStartTime": 29,
+    "roundEndTime": 48,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "21",
+        "latency": "2s",
+        "receiveTimestamp": 36
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "17",
+        "latency": "4s",
+        "receiveTimestamp": 37
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "25",
+        "latency": "5s",
+        "receiveTimestamp": 38
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "25",
+        "latency": "2s",
+        "receiveTimestamp": 39
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "30",
+        "latency": "4s",
+        "receiveTimestamp": 43
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player1",
+      "diceValue": "30",
+      "latency": "4s",
+      "receiveTimestamp": 43
+    }
+  },
+  {
+    "roundID": 6,
+    "roundStartTime": 48,
+    "roundEndTime": 71,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "59",
+        "latency": "1s",
+        "receiveTimestamp": 57
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "62",
+        "latency": "2s",
+        "receiveTimestamp": 58
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "52",
+        "latency": "1s",
+        "receiveTimestamp": 59
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "80",
+        "latency": "5s",
+        "receiveTimestamp": 60
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "3",
+        "latency": "8s",
+        "receiveTimestamp": 61
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "75",
+        "latency": "6s",
+        "receiveTimestamp": 64
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player5",
+      "diceValue": "80",
+      "latency": "5s",
+      "receiveTimestamp": 60
+    }
+  },
+  {
+    "roundID": 7,
+    "roundStartTime": 71,
+    "roundEndTime": 101,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "7",
+        "latency": "9s",
+        "receiveTimestamp": 82
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "30",
+        "latency": "3s",
+        "receiveTimestamp": 83
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "85",
+        "latency": "6s",
+        "receiveTimestamp": 84
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "62",
+        "latency": "6s",
+        "receiveTimestamp": 85
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "16",
+        "latency": "3s",
+        "receiveTimestamp": 86
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "88",
+        "latency": "2s",
+        "receiveTimestamp": 87
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "69",
+        "latency": "6s",
+        "receiveTimestamp": 88
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "29",
+        "latency": "7s",
+        "receiveTimestamp": 91
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player4",
+      "diceValue": "88",
+      "latency": "2s",
+      "receiveTimestamp": 87
+    }
+  },
+  {
+    "roundID": 8,
+    "roundStartTime": 101,
+    "roundEndTime": 136,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "68",
+        "latency": "1s",
+        "receiveTimestamp": 114
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "11",
+        "latency": "5s",
+        "receiveTimestamp": 117
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "55",
+        "latency": "4s",
+        "receiveTimestamp": 118
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "20",
+        "latency": "1s",
+        "receiveTimestamp": 119
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "37",
+        "latency": "5s",
+        "receiveTimestamp": 120
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "53",
+        "latency": "7s",
+        "receiveTimestamp": 121
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "12",
+        "latency": "4s",
+        "receiveTimestamp": 122
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "67",
+        "latency": "9s",
+        "receiveTimestamp": 125
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player7",
+      "diceValue": "68",
+      "latency": "1s",
+      "receiveTimestamp": 114
+    }
+  },
+  {
+    "roundID": 9,
+    "roundStartTime": 136,
+    "roundEndTime": 176,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "56",
+        "latency": "8s",
+        "receiveTimestamp": 150
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "100",
+        "latency": "7s",
+        "receiveTimestamp": 151
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "64",
+        "latency": "3s",
+        "receiveTimestamp": 152
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "16",
+        "latency": "5s",
+        "receiveTimestamp": 153
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "41",
+        "latency": "4s",
+        "receiveTimestamp": 154
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "23",
+        "latency": "3s",
+        "receiveTimestamp": 155
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "18",
+        "latency": "2s",
+        "receiveTimestamp": 156
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "88",
+        "latency": "1s",
+        "receiveTimestamp": 157
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "25",
+        "latency": "5s",
+        "receiveTimestamp": 158
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "4",
+        "latency": "6s",
+        "receiveTimestamp": 159
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "66",
+        "latency": "6s",
+        "receiveTimestamp": 160
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "80",
+        "latency": "10s",
+        "receiveTimestamp": 163
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player5",
+      "diceValue": "88",
+      "latency": "1s",
+      "receiveTimestamp": 157
+    }
+  },
+  {
+    "roundID": 10,
+    "roundStartTime": 176,
+    "roundEndTime": 221,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "97",
+        "latency": "3s",
+        "receiveTimestamp": 192
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "79",
+        "latency": "4s",
+        "receiveTimestamp": 193
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "41",
+        "latency": "7s",
+        "receiveTimestamp": 194
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "52",
+        "latency": "5s",
+        "receiveTimestamp": 195
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "19",
+        "latency": "9s",
+        "receiveTimestamp": 196
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "63",
+        "latency": "1s",
+        "receiveTimestamp": 197
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "17",
+        "latency": "1s",
+        "receiveTimestamp": 198
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "49",
+        "latency": "9s",
+        "receiveTimestamp": 199
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "21",
+        "latency": "10s",
+        "receiveTimestamp": 200
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "4",
+        "latency": "4s",
+        "receiveTimestamp": 201
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "4",
+        "latency": "8s",
+        "receiveTimestamp": 202
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "23",
+        "latency": "4s",
+        "receiveTimestamp": 203
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "9",
+        "latency": "1s",
+        "receiveTimestamp": 206
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player7",
+      "diceValue": "97",
+      "latency": "3s",
+      "receiveTimestamp": 192
+    }
+  },
+  {
+    "roundID": 11,
+    "roundStartTime": 221,
+    "roundEndTime": 272,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "55",
+        "latency": "2s",
+        "receiveTimestamp": 239
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "10",
+        "latency": "10s",
+        "receiveTimestamp": 240
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "8",
+        "latency": "8s",
+        "receiveTimestamp": 241
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "55",
+        "latency": "5s",
+        "receiveTimestamp": 242
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "15",
+        "latency": "8s",
+        "receiveTimestamp": 243
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "75",
+        "latency": "7s",
+        "receiveTimestamp": 244
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "16",
+        "latency": "6s",
+        "receiveTimestamp": 245
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "39",
+        "latency": "7s",
+        "receiveTimestamp": 246
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "21",
+        "latency": "4s",
+        "receiveTimestamp": 247
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "32",
+        "latency": "10s",
+        "receiveTimestamp": 248
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "39",
+        "latency": "5s",
+        "receiveTimestamp": 249
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "72",
+        "latency": "5s",
+        "receiveTimestamp": 250
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "59",
+        "latency": "2s",
+        "receiveTimestamp": 251
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "2",
+        "latency": "9s",
+        "receiveTimestamp": 252
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "10",
+        "latency": "3s",
+        "receiveTimestamp": 256
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player2",
+      "diceValue": "8",
+      "latency": "8s",
+      "receiveTimestamp": 241
+    }
+  },
+  {
+    "roundID": 12,
+    "roundStartTime": 272,
+    "roundEndTime": 329,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "50",
+        "latency": "10s",
+        "receiveTimestamp": 292
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "88",
+        "latency": "3s",
+        "receiveTimestamp": 293
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "67",
+        "latency": "10s",
+        "receiveTimestamp": 294
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "46",
+        "latency": "2s",
+        "receiveTimestamp": 295
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "19",
+        "latency": "4s",
+        "receiveTimestamp": 296
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "4",
+        "latency": "8s",
+        "receiveTimestamp": 297
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "17",
+        "latency": "10s",
+        "receiveTimestamp": 298
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "91",
+        "latency": "6s",
+        "receiveTimestamp": 299
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "36",
+        "latency": "8s",
+        "receiveTimestamp": 300
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "33",
+        "latency": "9s",
+        "receiveTimestamp": 301
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "93",
+        "latency": "6s",
+        "receiveTimestamp": 302
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "60",
+        "latency": "10s",
+        "receiveTimestamp": 303
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "34",
+        "latency": "5s",
+        "receiveTimestamp": 304
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "53",
+        "latency": "3s",
+        "receiveTimestamp": 305
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "59",
+        "latency": "7s",
+        "receiveTimestamp": 306
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "4",
+        "latency": "10s",
+        "receiveTimestamp": 307
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "84",
+        "latency": "2s",
+        "receiveTimestamp": 310
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player5",
+      "diceValue": "93",
+      "latency": "6s",
+      "receiveTimestamp": 302
+    }
+  },
+  {
+    "roundID": 13,
+    "roundStartTime": 329,
+    "roundEndTime": 391,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "10",
+        "latency": "10s",
+        "receiveTimestamp": 351
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "66",
+        "latency": "2s",
+        "receiveTimestamp": 352
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "80",
+        "latency": "1s",
+        "receiveTimestamp": 353
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "29",
+        "latency": "9s",
+        "receiveTimestamp": 354
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "49",
+        "latency": "4s",
+        "receiveTimestamp": 355
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "9",
+        "latency": "6s",
+        "receiveTimestamp": 356
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "15",
+        "latency": "9s",
+        "receiveTimestamp": 357
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "93",
+        "latency": "3s",
+        "receiveTimestamp": 358
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "95",
+        "latency": "1s",
+        "receiveTimestamp": 359
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "26",
+        "latency": "5s",
+        "receiveTimestamp": 360
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "16",
+        "latency": "7s",
+        "receiveTimestamp": 361
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "71",
+        "latency": "9s",
+        "receiveTimestamp": 362
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "8",
+        "latency": "3s",
+        "receiveTimestamp": 363
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "52",
+        "latency": "8s",
+        "receiveTimestamp": 364
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "56",
+        "latency": "4s",
+        "receiveTimestamp": 365
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "32",
+        "latency": "6s",
+        "receiveTimestamp": 366
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "55",
+        "latency": "4s",
+        "receiveTimestamp": 367
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "37",
+        "latency": "5s",
+        "receiveTimestamp": 368
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "12",
+        "latency": "4s",
+        "receiveTimestamp": 371
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player5",
+      "diceValue": "95",
+      "latency": "1s",
+      "receiveTimestamp": 359
+    }
+  },
+  {
+    "roundID": 14,
+    "roundStartTime": 391,
+    "roundEndTime": 456,
+    "playerSubmissions": [
+      {
+        "playerName": "Player20",
+        "diceValue": "97",
+        "latency": "10s",
+        "receiveTimestamp": 414
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "91",
+        "latency": "9s",
+        "receiveTimestamp": 415
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "52",
+        "latency": "3s",
+        "receiveTimestamp": 416
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "24",
+        "latency": "10s",
+        "receiveTimestamp": 417
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "6",
+        "latency": "2s",
+        "receiveTimestamp": 418
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "90",
+        "latency": "3s",
+        "receiveTimestamp": 419
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "23",
+        "latency": "4s",
+        "receiveTimestamp": 420
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "19",
+        "latency": "10s",
+        "receiveTimestamp": 421
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "18",
+        "latency": "1s",
+        "receiveTimestamp": 422
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "67",
+        "latency": "5s",
+        "receiveTimestamp": 423
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "38",
+        "latency": "7s",
+        "receiveTimestamp": 424
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "62",
+        "latency": "6s",
+        "receiveTimestamp": 425
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "60",
+        "latency": "2s",
+        "receiveTimestamp": 426
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "39",
+        "latency": "5s",
+        "receiveTimestamp": 427
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "74",
+        "latency": "6s",
+        "receiveTimestamp": 428
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "82",
+        "latency": "8s",
+        "receiveTimestamp": 429
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "44",
+        "latency": "10s",
+        "receiveTimestamp": 430
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "4",
+        "latency": "8s",
+        "receiveTimestamp": 431
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "60",
+        "latency": "7s",
+        "receiveTimestamp": 432
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "51",
+        "latency": "9s",
+        "receiveTimestamp": 433
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "46",
+        "latency": "9s",
+        "receiveTimestamp": 437
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player20",
+      "diceValue": "97",
+      "latency": "10s",
+      "receiveTimestamp": 414
+    }
+  },
+  {
+    "roundID": 15,
+    "roundStartTime": 456,
+    "roundEndTime": 522,
+    "playerSubmissions": [
+      {
+        "playerName": "Player8",
+        "diceValue": "41",
+        "latency": "5s",
+        "receiveTimestamp": 479
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "80",
+        "latency": "5s",
+        "receiveTimestamp": 480
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "73",
+        "latency": "10s",
+        "receiveTimestamp": 481
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "40",
+        "latency": "7s",
+        "receiveTimestamp": 482
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "82",
+        "latency": "8s",
+        "receiveTimestamp": 483
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "59",
+        "latency": "3s",
+        "receiveTimestamp": 484
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "14",
+        "latency": "8s",
+        "receiveTimestamp": 485
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "87",
+        "latency": "7s",
+        "receiveTimestamp": 486
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "33",
+        "latency": "4s",
+        "receiveTimestamp": 487
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "93",
+        "latency": "2s",
+        "receiveTimestamp": 488
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "53",
+        "latency": "6s",
+        "receiveTimestamp": 489
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "50",
+        "latency": "1s",
+        "receiveTimestamp": 490
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "8",
+        "latency": "10s",
+        "receiveTimestamp": 491
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "93",
+        "latency": "8s",
+        "receiveTimestamp": 492
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "1",
+        "latency": "5s",
+        "receiveTimestamp": 493
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "87",
+        "latency": "5s",
+        "receiveTimestamp": 494
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "71",
+        "latency": "2s",
+        "receiveTimestamp": 495
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "86",
+        "latency": "8s",
+        "receiveTimestamp": 496
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "87",
+        "latency": "8s",
+        "receiveTimestamp": 497
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "70",
+        "latency": "8s",
+        "receiveTimestamp": 498
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "18",
+        "latency": "9s",
+        "receiveTimestamp": 499
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "80",
+        "latency": "3s",
+        "receiveTimestamp": 503
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player16",
+      "diceValue": "93",
+      "latency": "2s",
+      "receiveTimestamp": 488
+    }
+  },
+  {
+    "roundID": 16,
+    "roundStartTime": 522,
+    "roundEndTime": 588,
+    "playerSubmissions": [
+      {
+        "playerName": "Player8",
+        "diceValue": "87",
+        "latency": "9s",
+        "receiveTimestamp": 545
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "14",
+        "latency": "4s",
+        "receiveTimestamp": 546
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "4",
+        "latency": "4s",
+        "receiveTimestamp": 547
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "90",
+        "latency": "4s",
+        "receiveTimestamp": 548
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "61",
+        "latency": "9s",
+        "receiveTimestamp": 549
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "78",
+        "latency": "9s",
+        "receiveTimestamp": 550
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "48",
+        "latency": "8s",
+        "receiveTimestamp": 551
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "53",
+        "latency": "1s",
+        "receiveTimestamp": 552
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "52",
+        "latency": "6s",
+        "receiveTimestamp": 553
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "40",
+        "latency": "3s",
+        "receiveTimestamp": 554
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "28",
+        "latency": "6s",
+        "receiveTimestamp": 555
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "65",
+        "latency": "8s",
+        "receiveTimestamp": 556
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "48",
+        "latency": "9s",
+        "receiveTimestamp": 557
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "52",
+        "latency": "1s",
+        "receiveTimestamp": 558
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "29",
+        "latency": "1s",
+        "receiveTimestamp": 559
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "80",
+        "latency": "5s",
+        "receiveTimestamp": 560
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "36",
+        "latency": "6s",
+        "receiveTimestamp": 561
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "77",
+        "latency": "4s",
+        "receiveTimestamp": 562
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "27",
+        "latency": "1s",
+        "receiveTimestamp": 563
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "25",
+        "latency": "4s",
+        "receiveTimestamp": 564
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "46",
+        "latency": "10s",
+        "receiveTimestamp": 565
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "13",
+        "latency": "10s",
+        "receiveTimestamp": 569
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player21",
+      "diceValue": "90",
+      "latency": "4s",
+      "receiveTimestamp": 548
+    }
+  },
+  {
+    "roundID": 17,
+    "roundStartTime": 588,
+    "roundEndTime": 654,
+    "playerSubmissions": [
+      {
+        "playerName": "Player22",
+        "diceValue": "95",
+        "latency": "10s",
+        "receiveTimestamp": 611
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "46",
+        "latency": "10s",
+        "receiveTimestamp": 612
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "21",
+        "latency": "2s",
+        "receiveTimestamp": 613
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "6",
+        "latency": "9s",
+        "receiveTimestamp": 614
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "42",
+        "latency": "4s",
+        "receiveTimestamp": 615
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "45",
+        "latency": "7s",
+        "receiveTimestamp": 616
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "62",
+        "latency": "8s",
+        "receiveTimestamp": 617
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "39",
+        "latency": "5s",
+        "receiveTimestamp": 618
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "53",
+        "latency": "8s",
+        "receiveTimestamp": 619
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "50",
+        "latency": "1s",
+        "receiveTimestamp": 620
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "55",
+        "latency": "8s",
+        "receiveTimestamp": 621
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "43",
+        "latency": "2s",
+        "receiveTimestamp": 622
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "46",
+        "latency": "6s",
+        "receiveTimestamp": 624
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "56",
+        "latency": "2s",
+        "receiveTimestamp": 625
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "4",
+        "latency": "7s",
+        "receiveTimestamp": 626
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "64",
+        "latency": "1s",
+        "receiveTimestamp": 627
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "50",
+        "latency": "9s",
+        "receiveTimestamp": 628
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "85",
+        "latency": "1s",
+        "receiveTimestamp": 629
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "16",
+        "latency": "2s",
+        "receiveTimestamp": 630
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "76",
+        "latency": "5s",
+        "receiveTimestamp": 631
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "99",
+        "latency": "10s",
+        "receiveTimestamp": 636
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player1",
+      "diceValue": "99",
+      "latency": "10s",
+      "receiveTimestamp": 636
+    }
+  },
+  {
+    "roundID": 18,
+    "roundStartTime": 654,
+    "roundEndTime": 720,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "98",
+        "latency": "1s",
+        "receiveTimestamp": 677
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "51",
+        "latency": "2s",
+        "receiveTimestamp": 678
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "86",
+        "latency": "1s",
+        "receiveTimestamp": 679
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "11",
+        "latency": "3s",
+        "receiveTimestamp": 680
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "24",
+        "latency": "7s",
+        "receiveTimestamp": 681
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "23",
+        "latency": "9s",
+        "receiveTimestamp": 682
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "23",
+        "latency": "6s",
+        "receiveTimestamp": 683
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "83",
+        "latency": "4s",
+        "receiveTimestamp": 684
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "91",
+        "latency": "5s",
+        "receiveTimestamp": 685
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "97",
+        "latency": "2s",
+        "receiveTimestamp": 686
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "71",
+        "latency": "1s",
+        "receiveTimestamp": 687
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "12",
+        "latency": "8s",
+        "receiveTimestamp": 688
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "82",
+        "latency": "4s",
+        "receiveTimestamp": 689
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "43",
+        "latency": "5s",
+        "receiveTimestamp": 690
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "51",
+        "latency": "2s",
+        "receiveTimestamp": 691
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "81",
+        "latency": "8s",
+        "receiveTimestamp": 692
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "99",
+        "latency": "6s",
+        "receiveTimestamp": 693
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "53",
+        "latency": "10s",
+        "receiveTimestamp": 694
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "31",
+        "latency": "10s",
+        "receiveTimestamp": 695
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "26",
+        "latency": "8s",
+        "receiveTimestamp": 696
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "19",
+        "latency": "9s",
+        "receiveTimestamp": 697
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "25",
+        "latency": "5s",
+        "receiveTimestamp": 700
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player5",
+      "diceValue": "99",
+      "latency": "6s",
+      "receiveTimestamp": 693
+    }
+  },
+  {
+    "roundID": 19,
+    "roundStartTime": 720,
+    "roundEndTime": 786,
+    "playerSubmissions": [
+      {
+        "playerName": "Player18",
+        "diceValue": "86",
+        "latency": "2s",
+        "receiveTimestamp": 743
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "83",
+        "latency": "6s",
+        "receiveTimestamp": 744
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "74",
+        "latency": "8s",
+        "receiveTimestamp": 745
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "56",
+        "latency": "4s",
+        "receiveTimestamp": 746
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "73",
+        "latency": "10s",
+        "receiveTimestamp": 747
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "33",
+        "latency": "7s",
+        "receiveTimestamp": 748
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "24",
+        "latency": "4s",
+        "receiveTimestamp": 749
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "18",
+        "latency": "4s",
+        "receiveTimestamp": 750
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "58",
+        "latency": "3s",
+        "receiveTimestamp": 751
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "22",
+        "latency": "10s",
+        "receiveTimestamp": 752
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "79",
+        "latency": "6s",
+        "receiveTimestamp": 753
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "55",
+        "latency": "9s",
+        "receiveTimestamp": 755
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "60",
+        "latency": "3s",
+        "receiveTimestamp": 756
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "62",
+        "latency": "9s",
+        "receiveTimestamp": 757
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "82",
+        "latency": "6s",
+        "receiveTimestamp": 758
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "43",
+        "latency": "4s",
+        "receiveTimestamp": 759
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "22",
+        "latency": "9s",
+        "receiveTimestamp": 760
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "17",
+        "latency": "2s",
+        "receiveTimestamp": 761
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "54",
+        "latency": "9s",
+        "receiveTimestamp": 762
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "31",
+        "latency": "8s",
+        "receiveTimestamp": 763
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "12",
+        "latency": "7s",
+        "receiveTimestamp": 768
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player18",
+      "diceValue": "86",
+      "latency": "2s",
+      "receiveTimestamp": 743
+    }
+  },
+  {
+    "roundID": 20,
+    "roundStartTime": 786,
+    "roundEndTime": 850,
+    "playerSubmissions": [
+      {
+        "playerName": "Player21",
+        "diceValue": "33",
+        "latency": "4s",
+        "receiveTimestamp": 809
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "70",
+        "latency": "3s",
+        "receiveTimestamp": 810
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "40",
+        "latency": "1s",
+        "receiveTimestamp": 811
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "5",
+        "latency": "3s",
+        "receiveTimestamp": 812
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "95",
+        "latency": "6s",
+        "receiveTimestamp": 813
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "12",
+        "latency": "6s",
+        "receiveTimestamp": 814
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "79",
+        "latency": "2s",
+        "receiveTimestamp": 815
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "15",
+        "latency": "6s",
+        "receiveTimestamp": 816
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "9",
+        "latency": "6s",
+        "receiveTimestamp": 817
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "80",
+        "latency": "2s",
+        "receiveTimestamp": 818
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "77",
+        "latency": "2s",
+        "receiveTimestamp": 820
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "28",
+        "latency": "3s",
+        "receiveTimestamp": 821
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "57",
+        "latency": "7s",
+        "receiveTimestamp": 822
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "82",
+        "latency": "6s",
+        "receiveTimestamp": 823
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "36",
+        "latency": "5s",
+        "receiveTimestamp": 824
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "60",
+        "latency": "10s",
+        "receiveTimestamp": 825
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "10",
+        "latency": "1s",
+        "receiveTimestamp": 826
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "24",
+        "latency": "7s",
+        "receiveTimestamp": 827
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "82",
+        "latency": "7s",
+        "receiveTimestamp": 832
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player19",
+      "diceValue": "95",
+      "latency": "6s",
+      "receiveTimestamp": 813
+    }
+  },
+  {
+    "roundID": 21,
+    "roundStartTime": 850,
+    "roundEndTime": 916,
+    "playerSubmissions": [
+      {
+        "playerName": "Player21",
+        "diceValue": "41",
+        "latency": "7s",
+        "receiveTimestamp": 873
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "24",
+        "latency": "1s",
+        "receiveTimestamp": 874
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "96",
+        "latency": "4s",
+        "receiveTimestamp": 875
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "50",
+        "latency": "9s",
+        "receiveTimestamp": 876
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "96",
+        "latency": "9s",
+        "receiveTimestamp": 877
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "71",
+        "latency": "9s",
+        "receiveTimestamp": 878
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "45",
+        "latency": "5s",
+        "receiveTimestamp": 879
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "8",
+        "latency": "1s",
+        "receiveTimestamp": 880
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "25",
+        "latency": "7s",
+        "receiveTimestamp": 881
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "26",
+        "latency": "2s",
+        "receiveTimestamp": 882
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "67",
+        "latency": "10s",
+        "receiveTimestamp": 883
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "18",
+        "latency": "6s",
+        "receiveTimestamp": 885
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "88",
+        "latency": "8s",
+        "receiveTimestamp": 886
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "91",
+        "latency": "4s",
+        "receiveTimestamp": 887
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "89",
+        "latency": "9s",
+        "receiveTimestamp": 887
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "82",
+        "latency": "3s",
+        "receiveTimestamp": 888
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "27",
+        "latency": "8s",
+        "receiveTimestamp": 889
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "58",
+        "latency": "9s",
+        "receiveTimestamp": 890
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "98",
+        "latency": "3s",
+        "receiveTimestamp": 891
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "61",
+        "latency": "7s",
+        "receiveTimestamp": 892
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "39",
+        "latency": "10s",
+        "receiveTimestamp": 893
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "62",
+        "latency": "7s",
+        "receiveTimestamp": 896
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player10",
+      "diceValue": "98",
+      "latency": "3s",
+      "receiveTimestamp": 891
+    }
+  },
+  {
+    "roundID": 22,
+    "roundStartTime": 916,
+    "roundEndTime": 982,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "56",
+        "latency": "9s",
+        "receiveTimestamp": 939
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "8",
+        "latency": "7s",
+        "receiveTimestamp": 940
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "63",
+        "latency": "8s",
+        "receiveTimestamp": 941
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "42",
+        "latency": "8s",
+        "receiveTimestamp": 942
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "96",
+        "latency": "4s",
+        "receiveTimestamp": 943
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "34",
+        "latency": "9s",
+        "receiveTimestamp": 944
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "73",
+        "latency": "9s",
+        "receiveTimestamp": 945
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "86",
+        "latency": "4s",
+        "receiveTimestamp": 946
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "89",
+        "latency": "8s",
+        "receiveTimestamp": 947
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "22",
+        "latency": "6s",
+        "receiveTimestamp": 948
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "93",
+        "latency": "4s",
+        "receiveTimestamp": 949
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "43",
+        "latency": "10s",
+        "receiveTimestamp": 950
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "12",
+        "latency": "7s",
+        "receiveTimestamp": 951
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "6",
+        "latency": "9s",
+        "receiveTimestamp": 952
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "25",
+        "latency": "4s",
+        "receiveTimestamp": 953
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "90",
+        "latency": "10s",
+        "receiveTimestamp": 954
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "35",
+        "latency": "10s",
+        "receiveTimestamp": 955
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "72",
+        "latency": "2s",
+        "receiveTimestamp": 956
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "29",
+        "latency": "10s",
+        "receiveTimestamp": 957
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "10",
+        "latency": "9s",
+        "receiveTimestamp": 958
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "50",
+        "latency": "10s",
+        "receiveTimestamp": 959
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "67",
+        "latency": "10s",
+        "receiveTimestamp": 962
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player19",
+      "diceValue": "96",
+      "latency": "4s",
+      "receiveTimestamp": 943
+    }
+  },
+  {
+    "roundID": 23,
+    "roundStartTime": 982,
+    "roundEndTime": 1048,
+    "playerSubmissions": [
+      {
+        "playerName": "Player17",
+        "diceValue": "57",
+        "latency": "9s",
+        "receiveTimestamp": 1005
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "89",
+        "latency": "7s",
+        "receiveTimestamp": 1006
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "55",
+        "latency": "8s",
+        "receiveTimestamp": 1007
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "80",
+        "latency": "2s",
+        "receiveTimestamp": 1008
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "93",
+        "latency": "8s",
+        "receiveTimestamp": 1009
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "17",
+        "latency": "1s",
+        "receiveTimestamp": 1010
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "62",
+        "latency": "5s",
+        "receiveTimestamp": 1011
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "4",
+        "latency": "2s",
+        "receiveTimestamp": 1012
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "74",
+        "latency": "1s",
+        "receiveTimestamp": 1013
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "6",
+        "latency": "8s",
+        "receiveTimestamp": 1014
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "69",
+        "latency": "8s",
+        "receiveTimestamp": 1015
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "43",
+        "latency": "8s",
+        "receiveTimestamp": 1016
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "53",
+        "latency": "6s",
+        "receiveTimestamp": 1017
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "79",
+        "latency": "1s",
+        "receiveTimestamp": 1018
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "30",
+        "latency": "9s",
+        "receiveTimestamp": 1019
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "12",
+        "latency": "5s",
+        "receiveTimestamp": 1020
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "51",
+        "latency": "9s",
+        "receiveTimestamp": 1021
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "81",
+        "latency": "7s",
+        "receiveTimestamp": 1022
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "11",
+        "latency": "5s",
+        "receiveTimestamp": 1023
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "75",
+        "latency": "5s",
+        "receiveTimestamp": 1024
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "58",
+        "latency": "8s",
+        "receiveTimestamp": 1025
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "58",
+        "latency": "6s",
+        "receiveTimestamp": 1028
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player8",
+      "diceValue": "93",
+      "latency": "8s",
+      "receiveTimestamp": 1009
+    }
+  },
+  {
+    "roundID": 24,
+    "roundStartTime": 1048,
+    "roundEndTime": 1114,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "3",
+        "latency": "6s",
+        "receiveTimestamp": 1071
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "2",
+        "latency": "8s",
+        "receiveTimestamp": 1072
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "76",
+        "latency": "5s",
+        "receiveTimestamp": 1073
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "22",
+        "latency": "9s",
+        "receiveTimestamp": 1074
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "78",
+        "latency": "7s",
+        "receiveTimestamp": 1075
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "88",
+        "latency": "9s",
+        "receiveTimestamp": 1076
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "57",
+        "latency": "5s",
+        "receiveTimestamp": 1077
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "96",
+        "latency": "6s",
+        "receiveTimestamp": 1078
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "23",
+        "latency": "9s",
+        "receiveTimestamp": 1079
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "11",
+        "latency": "7s",
+        "receiveTimestamp": 1080
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "40",
+        "latency": "9s",
+        "receiveTimestamp": 1081
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "35",
+        "latency": "5s",
+        "receiveTimestamp": 1082
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "88",
+        "latency": "1s",
+        "receiveTimestamp": 1083
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "24",
+        "latency": "1s",
+        "receiveTimestamp": 1084
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "53",
+        "latency": "1s",
+        "receiveTimestamp": 1085
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "95",
+        "latency": "4s",
+        "receiveTimestamp": 1086
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "67",
+        "latency": "4s",
+        "receiveTimestamp": 1087
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "33",
+        "latency": "3s",
+        "receiveTimestamp": 1088
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "59",
+        "latency": "6s",
+        "receiveTimestamp": 1089
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "91",
+        "latency": "3s",
+        "receiveTimestamp": 1090
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "12",
+        "latency": "7s",
+        "receiveTimestamp": 1091
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "37",
+        "latency": "5s",
+        "receiveTimestamp": 1096
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player19",
+      "diceValue": "96",
+      "latency": "6s",
+      "receiveTimestamp": 1078
+    }
+  },
+  {
+    "roundID": 25,
+    "roundStartTime": 1114,
+    "roundEndTime": 1180,
+    "playerSubmissions": [
+      {
+        "playerName": "Player20",
+        "diceValue": "5",
+        "latency": "10s",
+        "receiveTimestamp": 1137
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "63",
+        "latency": "6s",
+        "receiveTimestamp": 1138
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "74",
+        "latency": "2s",
+        "receiveTimestamp": 1139
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "42",
+        "latency": "7s",
+        "receiveTimestamp": 1140
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "41",
+        "latency": "4s",
+        "receiveTimestamp": 1141
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "59",
+        "latency": "10s",
+        "receiveTimestamp": 1142
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "40",
+        "latency": "9s",
+        "receiveTimestamp": 1143
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "74",
+        "latency": "5s",
+        "receiveTimestamp": 1144
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "97",
+        "latency": "1s",
+        "receiveTimestamp": 1145
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "53",
+        "latency": "7s",
+        "receiveTimestamp": 1146
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "85",
+        "latency": "4s",
+        "receiveTimestamp": 1147
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "93",
+        "latency": "6s",
+        "receiveTimestamp": 1148
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "28",
+        "latency": "7s",
+        "receiveTimestamp": 1149
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "83",
+        "latency": "4s",
+        "receiveTimestamp": 1150
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "25",
+        "latency": "3s",
+        "receiveTimestamp": 1151
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "96",
+        "latency": "1s",
+        "receiveTimestamp": 1152
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "46",
+        "latency": "3s",
+        "receiveTimestamp": 1153
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "73",
+        "latency": "5s",
+        "receiveTimestamp": 1154
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "68",
+        "latency": "4s",
+        "receiveTimestamp": 1155
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "46",
+        "latency": "10s",
+        "receiveTimestamp": 1156
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "41",
+        "latency": "4s",
+        "receiveTimestamp": 1157
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "85",
+        "latency": "8s",
+        "receiveTimestamp": 1160
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player18",
+      "diceValue": "97",
+      "latency": "1s",
+      "receiveTimestamp": 1145
+    }
+  },
+  {
+    "roundID": 26,
+    "roundStartTime": 1180,
+    "roundEndTime": 1246,
+    "playerSubmissions": [
+      {
+        "playerName": "Player17",
+        "diceValue": "96",
+        "latency": "8s",
+        "receiveTimestamp": 1203
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "87",
+        "latency": "5s",
+        "receiveTimestamp": 1205
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "74",
+        "latency": "1s",
+        "receiveTimestamp": 1205
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "33",
+        "latency": "5s",
+        "receiveTimestamp": 1206
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "14",
+        "latency": "10s",
+        "receiveTimestamp": 1207
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "3",
+        "latency": "9s",
+        "receiveTimestamp": 1208
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "96",
+        "latency": "4s",
+        "receiveTimestamp": 1209
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "23",
+        "latency": "9s",
+        "receiveTimestamp": 1210
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "28",
+        "latency": "9s",
+        "receiveTimestamp": 1211
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "86",
+        "latency": "4s",
+        "receiveTimestamp": 1212
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "7",
+        "latency": "5s",
+        "receiveTimestamp": 1213
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "76",
+        "latency": "9s",
+        "receiveTimestamp": 1214
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "17",
+        "latency": "7s",
+        "receiveTimestamp": 1215
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "60",
+        "latency": "3s",
+        "receiveTimestamp": 1216
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "48",
+        "latency": "7s",
+        "receiveTimestamp": 1217
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "43",
+        "latency": "8s",
+        "receiveTimestamp": 1218
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "4",
+        "latency": "7s",
+        "receiveTimestamp": 1219
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "69",
+        "latency": "8s",
+        "receiveTimestamp": 1220
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "25",
+        "latency": "3s",
+        "receiveTimestamp": 1221
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "55",
+        "latency": "4s",
+        "receiveTimestamp": 1222
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "51",
+        "latency": "3s",
+        "receiveTimestamp": 1223
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "32",
+        "latency": "9s",
+        "receiveTimestamp": 1227
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player17",
+      "diceValue": "96",
+      "latency": "8s",
+      "receiveTimestamp": 1203
+    }
+  },
+  {
+    "roundID": 27,
+    "roundStartTime": 1246,
+    "roundEndTime": 1312,
+    "playerSubmissions": [
+      {
+        "playerName": "Player8",
+        "diceValue": "52",
+        "latency": "8s",
+        "receiveTimestamp": 1269
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "10",
+        "latency": "1s",
+        "receiveTimestamp": 1270
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "14",
+        "latency": "3s",
+        "receiveTimestamp": 1271
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "31",
+        "latency": "9s",
+        "receiveTimestamp": 1272
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "88",
+        "latency": "2s",
+        "receiveTimestamp": 1273
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "16",
+        "latency": "10s",
+        "receiveTimestamp": 1274
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "2",
+        "latency": "4s",
+        "receiveTimestamp": 1275
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "94",
+        "latency": "4s",
+        "receiveTimestamp": 1276
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "55",
+        "latency": "3s",
+        "receiveTimestamp": 1277
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "51",
+        "latency": "4s",
+        "receiveTimestamp": 1278
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "77",
+        "latency": "7s",
+        "receiveTimestamp": 1279
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "25",
+        "latency": "4s",
+        "receiveTimestamp": 1280
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "65",
+        "latency": "10s",
+        "receiveTimestamp": 1281
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "41",
+        "latency": "4s",
+        "receiveTimestamp": 1282
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "56",
+        "latency": "9s",
+        "receiveTimestamp": 1283
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "91",
+        "latency": "7s",
+        "receiveTimestamp": 1284
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "45",
+        "latency": "10s",
+        "receiveTimestamp": 1285
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "53",
+        "latency": "2s",
+        "receiveTimestamp": 1286
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "29",
+        "latency": "5s",
+        "receiveTimestamp": 1287
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "68",
+        "latency": "3s",
+        "receiveTimestamp": 1288
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "98",
+        "latency": "10s",
+        "receiveTimestamp": 1289
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "27",
+        "latency": "7s",
+        "receiveTimestamp": 1293
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player15",
+      "diceValue": "98",
+      "latency": "10s",
+      "receiveTimestamp": 1289
+    }
+  },
+  {
+    "roundID": 28,
+    "roundStartTime": 1312,
+    "roundEndTime": 1378,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "36",
+        "latency": "1s",
+        "receiveTimestamp": 1335
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "48",
+        "latency": "2s",
+        "receiveTimestamp": 1336
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "48",
+        "latency": "6s",
+        "receiveTimestamp": 1337
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "63",
+        "latency": "3s",
+        "receiveTimestamp": 1338
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "67",
+        "latency": "4s",
+        "receiveTimestamp": 1339
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "64",
+        "latency": "2s",
+        "receiveTimestamp": 1340
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "56",
+        "latency": "7s",
+        "receiveTimestamp": 1341
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "52",
+        "latency": "2s",
+        "receiveTimestamp": 1342
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "92",
+        "latency": "10s",
+        "receiveTimestamp": 1343
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "57",
+        "latency": "1s",
+        "receiveTimestamp": 1344
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "9",
+        "latency": "3s",
+        "receiveTimestamp": 1345
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "73",
+        "latency": "10s",
+        "receiveTimestamp": 1346
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "45",
+        "latency": "3s",
+        "receiveTimestamp": 1347
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "20",
+        "latency": "2s",
+        "receiveTimestamp": 1348
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "86",
+        "latency": "9s",
+        "receiveTimestamp": 1349
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "5",
+        "latency": "1s",
+        "receiveTimestamp": 1350
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "79",
+        "latency": "6s",
+        "receiveTimestamp": 1351
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "63",
+        "latency": "4s",
+        "receiveTimestamp": 1352
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "31",
+        "latency": "8s",
+        "receiveTimestamp": 1353
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "45",
+        "latency": "7s",
+        "receiveTimestamp": 1354
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "53",
+        "latency": "2s",
+        "receiveTimestamp": 1355
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "36",
+        "latency": "4s",
+        "receiveTimestamp": 1361
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player17",
+      "diceValue": "92",
+      "latency": "10s",
+      "receiveTimestamp": 1343
+    }
+  },
+  {
+    "roundID": 29,
+    "roundStartTime": 1378,
+    "roundEndTime": 1443,
+    "playerSubmissions": [
+      {
+        "playerName": "Player16",
+        "diceValue": "34",
+        "latency": "5s",
+        "receiveTimestamp": 1401
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "66",
+        "latency": "6s",
+        "receiveTimestamp": 1401
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "34",
+        "latency": "2s",
+        "receiveTimestamp": 1402
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "17",
+        "latency": "9s",
+        "receiveTimestamp": 1403
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "91",
+        "latency": "3s",
+        "receiveTimestamp": 1404
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "64",
+        "latency": "2s",
+        "receiveTimestamp": 1405
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "26",
+        "latency": "8s",
+        "receiveTimestamp": 1406
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "95",
+        "latency": "9s",
+        "receiveTimestamp": 1407
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "15",
+        "latency": "2s",
+        "receiveTimestamp": 1408
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "79",
+        "latency": "8s",
+        "receiveTimestamp": 1409
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "88",
+        "latency": "5s",
+        "receiveTimestamp": 1410
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "36",
+        "latency": "6s",
+        "receiveTimestamp": 1411
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "77",
+        "latency": "6s",
+        "receiveTimestamp": 1412
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "6",
+        "latency": "8s",
+        "receiveTimestamp": 1413
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "67",
+        "latency": "2s",
+        "receiveTimestamp": 1414
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "4",
+        "latency": "8s",
+        "receiveTimestamp": 1415
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "23",
+        "latency": "1s",
+        "receiveTimestamp": 1416
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "64",
+        "latency": "3s",
+        "receiveTimestamp": 1417
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "13",
+        "latency": "5s",
+        "receiveTimestamp": 1418
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "46",
+        "latency": "2s",
+        "receiveTimestamp": 1419
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "74",
+        "latency": "9s",
+        "receiveTimestamp": 1420
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "74",
+        "latency": "5s",
+        "receiveTimestamp": 1425
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player17",
+      "diceValue": "95",
+      "latency": "9s",
+      "receiveTimestamp": 1407
+    }
+  },
+  {
+    "roundID": 30,
+    "roundStartTime": 1443,
+    "roundEndTime": 1509,
+    "playerSubmissions": [
+      {
+        "playerName": "Player8",
+        "diceValue": "96",
+        "latency": "3s",
+        "receiveTimestamp": 1466
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "40",
+        "latency": "4s",
+        "receiveTimestamp": 1467
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "94",
+        "latency": "4s",
+        "receiveTimestamp": 1468
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "87",
+        "latency": "9s",
+        "receiveTimestamp": 1469
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "56",
+        "latency": "5s",
+        "receiveTimestamp": 1470
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "36",
+        "latency": "7s",
+        "receiveTimestamp": 1471
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "93",
+        "latency": "8s",
+        "receiveTimestamp": 1472
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "98",
+        "latency": "4s",
+        "receiveTimestamp": 1473
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "73",
+        "latency": "6s",
+        "receiveTimestamp": 1474
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "5",
+        "latency": "5s",
+        "receiveTimestamp": 1475
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "14",
+        "latency": "10s",
+        "receiveTimestamp": 1476
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "41",
+        "latency": "7s",
+        "receiveTimestamp": 1477
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "43",
+        "latency": "8s",
+        "receiveTimestamp": 1478
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "87",
+        "latency": "10s",
+        "receiveTimestamp": 1479
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "83",
+        "latency": "9s",
+        "receiveTimestamp": 1480
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "80",
+        "latency": "8s",
+        "receiveTimestamp": 1481
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "95",
+        "latency": "2s",
+        "receiveTimestamp": 1482
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "46",
+        "latency": "5s",
+        "receiveTimestamp": 1483
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "25",
+        "latency": "4s",
+        "receiveTimestamp": 1484
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "83",
+        "latency": "6s",
+        "receiveTimestamp": 1485
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "77",
+        "latency": "7s",
+        "receiveTimestamp": 1486
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "8",
+        "latency": "8s",
+        "receiveTimestamp": 1489
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player17",
+      "diceValue": "98",
+      "latency": "4s",
+      "receiveTimestamp": 1473
+    }
+  },
+  {
+    "roundID": 31,
+    "roundStartTime": 1509,
+    "roundEndTime": 1575,
+    "playerSubmissions": [
+      {
+        "playerName": "Player21",
+        "diceValue": "91",
+        "latency": "10s",
+        "receiveTimestamp": 1532
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "89",
+        "latency": "5s",
+        "receiveTimestamp": 1533
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "82",
+        "latency": "7s",
+        "receiveTimestamp": 1534
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "92",
+        "latency": "9s",
+        "receiveTimestamp": 1535
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "58",
+        "latency": "2s",
+        "receiveTimestamp": 1536
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "41",
+        "latency": "5s",
+        "receiveTimestamp": 1537
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "94",
+        "latency": "8s",
+        "receiveTimestamp": 1538
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "51",
+        "latency": "3s",
+        "receiveTimestamp": 1539
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "21",
+        "latency": "8s",
+        "receiveTimestamp": 1540
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "3",
+        "latency": "5s",
+        "receiveTimestamp": 1541
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "28",
+        "latency": "1s",
+        "receiveTimestamp": 1542
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "67",
+        "latency": "6s",
+        "receiveTimestamp": 1543
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "26",
+        "latency": "4s",
+        "receiveTimestamp": 1544
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "42",
+        "latency": "4s",
+        "receiveTimestamp": 1545
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "20",
+        "latency": "2s",
+        "receiveTimestamp": 1546
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "55",
+        "latency": "8s",
+        "receiveTimestamp": 1547
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "96",
+        "latency": "10s",
+        "receiveTimestamp": 1548
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "59",
+        "latency": "6s",
+        "receiveTimestamp": 1549
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "42",
+        "latency": "9s",
+        "receiveTimestamp": 1550
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "6",
+        "latency": "10s",
+        "receiveTimestamp": 1551
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "85",
+        "latency": "10s",
+        "receiveTimestamp": 1552
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "13",
+        "latency": "4s",
+        "receiveTimestamp": 1555
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player10",
+      "diceValue": "96",
+      "latency": "10s",
+      "receiveTimestamp": 1548
+    }
+  },
+  {
+    "roundID": 32,
+    "roundStartTime": 1575,
+    "roundEndTime": 1641,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "39",
+        "latency": "3s",
+        "receiveTimestamp": 1598
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "94",
+        "latency": "10s",
+        "receiveTimestamp": 1599
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "95",
+        "latency": "10s",
+        "receiveTimestamp": 1600
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "87",
+        "latency": "1s",
+        "receiveTimestamp": 1601
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "3",
+        "latency": "10s",
+        "receiveTimestamp": 1602
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "8",
+        "latency": "3s",
+        "receiveTimestamp": 1603
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "15",
+        "latency": "2s",
+        "receiveTimestamp": 1604
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "20",
+        "latency": "10s",
+        "receiveTimestamp": 1605
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "45",
+        "latency": "3s",
+        "receiveTimestamp": 1606
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "93",
+        "latency": "3s",
+        "receiveTimestamp": 1607
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "29",
+        "latency": "1s",
+        "receiveTimestamp": 1608
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "48",
+        "latency": "1s",
+        "receiveTimestamp": 1609
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "93",
+        "latency": "9s",
+        "receiveTimestamp": 1610
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "10",
+        "latency": "2s",
+        "receiveTimestamp": 1611
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "19",
+        "latency": "9s",
+        "receiveTimestamp": 1612
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "92",
+        "latency": "1s",
+        "receiveTimestamp": 1613
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "70",
+        "latency": "5s",
+        "receiveTimestamp": 1614
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "93",
+        "latency": "10s",
+        "receiveTimestamp": 1615
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "14",
+        "latency": "1s",
+        "receiveTimestamp": 1616
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "4",
+        "latency": "1s",
+        "receiveTimestamp": 1617
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "57",
+        "latency": "8s",
+        "receiveTimestamp": 1618
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "93",
+        "latency": "2s",
+        "receiveTimestamp": 1621
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player16",
+      "diceValue": "95",
+      "latency": "10s",
+      "receiveTimestamp": 1600
+    }
+  },
+  {
+    "roundID": 33,
+    "roundStartTime": 1641,
+    "roundEndTime": 1707,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "70",
+        "latency": "8s",
+        "receiveTimestamp": 1664
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "63",
+        "latency": "2s",
+        "receiveTimestamp": 1665
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "58",
+        "latency": "5s",
+        "receiveTimestamp": 1666
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "80",
+        "latency": "6s",
+        "receiveTimestamp": 1667
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "64",
+        "latency": "4s",
+        "receiveTimestamp": 1668
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "81",
+        "latency": "1s",
+        "receiveTimestamp": 1669
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "74",
+        "latency": "8s",
+        "receiveTimestamp": 1670
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "37",
+        "latency": "6s",
+        "receiveTimestamp": 1672
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "86",
+        "latency": "5s",
+        "receiveTimestamp": 1672
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "79",
+        "latency": "8s",
+        "receiveTimestamp": 1673
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "34",
+        "latency": "2s",
+        "receiveTimestamp": 1674
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "21",
+        "latency": "7s",
+        "receiveTimestamp": 1675
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "94",
+        "latency": "9s",
+        "receiveTimestamp": 1676
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "80",
+        "latency": "4s",
+        "receiveTimestamp": 1677
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "12",
+        "latency": "8s",
+        "receiveTimestamp": 1678
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "80",
+        "latency": "8s",
+        "receiveTimestamp": 1679
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "59",
+        "latency": "5s",
+        "receiveTimestamp": 1680
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "3",
+        "latency": "8s",
+        "receiveTimestamp": 1681
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "18",
+        "latency": "2s",
+        "receiveTimestamp": 1682
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "10",
+        "latency": "9s",
+        "receiveTimestamp": 1683
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "20",
+        "latency": "2s",
+        "receiveTimestamp": 1684
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "29",
+        "latency": "3s",
+        "receiveTimestamp": 1688
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player14",
+      "diceValue": "94",
+      "latency": "9s",
+      "receiveTimestamp": 1676
+    }
+  },
+  {
+    "roundID": 34,
+    "roundStartTime": 1707,
+    "roundEndTime": 1773,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "64",
+        "latency": "7s",
+        "receiveTimestamp": 1730
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "94",
+        "latency": "1s",
+        "receiveTimestamp": 1731
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "35",
+        "latency": "8s",
+        "receiveTimestamp": 1732
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "48",
+        "latency": "2s",
+        "receiveTimestamp": 1733
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "88",
+        "latency": "5s",
+        "receiveTimestamp": 1734
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "93",
+        "latency": "9s",
+        "receiveTimestamp": 1735
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "82",
+        "latency": "7s",
+        "receiveTimestamp": 1736
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "89",
+        "latency": "8s",
+        "receiveTimestamp": 1737
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "56",
+        "latency": "6s",
+        "receiveTimestamp": 1738
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "59",
+        "latency": "5s",
+        "receiveTimestamp": 1739
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "10",
+        "latency": "10s",
+        "receiveTimestamp": 1740
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "14",
+        "latency": "9s",
+        "receiveTimestamp": 1741
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "91",
+        "latency": "5s",
+        "receiveTimestamp": 1742
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "70",
+        "latency": "1s",
+        "receiveTimestamp": 1743
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "20",
+        "latency": "8s",
+        "receiveTimestamp": 1744
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "69",
+        "latency": "2s",
+        "receiveTimestamp": 1745
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "10",
+        "latency": "7s",
+        "receiveTimestamp": 1746
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "70",
+        "latency": "5s",
+        "receiveTimestamp": 1747
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "48",
+        "latency": "5s",
+        "receiveTimestamp": 1748
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "33",
+        "latency": "2s",
+        "receiveTimestamp": 1749
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "10",
+        "latency": "7s",
+        "receiveTimestamp": 1750
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "99",
+        "latency": "4s",
+        "receiveTimestamp": 1754
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player1",
+      "diceValue": "99",
+      "latency": "4s",
+      "receiveTimestamp": 1754
+    }
+  },
+  {
+    "roundID": 35,
+    "roundStartTime": 1773,
+    "roundEndTime": 1839,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "17",
+        "latency": "2s",
+        "receiveTimestamp": 1797
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "33",
+        "latency": "10s",
+        "receiveTimestamp": 1798
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "9",
+        "latency": "2s",
+        "receiveTimestamp": 1799
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "36",
+        "latency": "8s",
+        "receiveTimestamp": 1800
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "12",
+        "latency": "5s",
+        "receiveTimestamp": 1801
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "17",
+        "latency": "9s",
+        "receiveTimestamp": 1802
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "100",
+        "latency": "8s",
+        "receiveTimestamp": 1803
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "23",
+        "latency": "6s",
+        "receiveTimestamp": 1804
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "68",
+        "latency": "4s",
+        "receiveTimestamp": 1805
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "43",
+        "latency": "6s",
+        "receiveTimestamp": 1806
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "3",
+        "latency": "1s",
+        "receiveTimestamp": 1807
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "67",
+        "latency": "3s",
+        "receiveTimestamp": 1808
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "75",
+        "latency": "7s",
+        "receiveTimestamp": 1809
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "64",
+        "latency": "5s",
+        "receiveTimestamp": 1810
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "21",
+        "latency": "7s",
+        "receiveTimestamp": 1811
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "70",
+        "latency": "4s",
+        "receiveTimestamp": 1812
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "99",
+        "latency": "5s",
+        "receiveTimestamp": 1813
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "61",
+        "latency": "8s",
+        "receiveTimestamp": 1814
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "43",
+        "latency": "2s",
+        "receiveTimestamp": 1815
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "69",
+        "latency": "2s",
+        "receiveTimestamp": 1816
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "63",
+        "latency": "4s",
+        "receiveTimestamp": 1819
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player15",
+      "diceValue": "99",
+      "latency": "5s",
+      "receiveTimestamp": 1813
+    }
+  },
+  {
+    "roundID": 36,
+    "roundStartTime": 1839,
+    "roundEndTime": 1905,
+    "playerSubmissions": [
+      {
+        "playerName": "Player22",
+        "diceValue": "91",
+        "latency": "7s",
+        "receiveTimestamp": 1862
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "38",
+        "latency": "10s",
+        "receiveTimestamp": 1863
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "38",
+        "latency": "5s",
+        "receiveTimestamp": 1864
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "63",
+        "latency": "5s",
+        "receiveTimestamp": 1865
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "100",
+        "latency": "2s",
+        "receiveTimestamp": 1866
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "86",
+        "latency": "3s",
+        "receiveTimestamp": 1867
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "15",
+        "latency": "5s",
+        "receiveTimestamp": 1868
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "48",
+        "latency": "2s",
+        "receiveTimestamp": 1869
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "59",
+        "latency": "6s",
+        "receiveTimestamp": 1870
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "90",
+        "latency": "1s",
+        "receiveTimestamp": 1871
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "22",
+        "latency": "5s",
+        "receiveTimestamp": 1872
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "70",
+        "latency": "4s",
+        "receiveTimestamp": 1873
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "35",
+        "latency": "3s",
+        "receiveTimestamp": 1874
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "71",
+        "latency": "6s",
+        "receiveTimestamp": 1875
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "63",
+        "latency": "2s",
+        "receiveTimestamp": 1876
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "83",
+        "latency": "4s",
+        "receiveTimestamp": 1877
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "55",
+        "latency": "6s",
+        "receiveTimestamp": 1878
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "8",
+        "latency": "8s",
+        "receiveTimestamp": 1879
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "63",
+        "latency": "10s",
+        "receiveTimestamp": 1880
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "6",
+        "latency": "7s",
+        "receiveTimestamp": 1881
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "39",
+        "latency": "6s",
+        "receiveTimestamp": 1882
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "44",
+        "latency": "1s",
+        "receiveTimestamp": 1885
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player22",
+      "diceValue": "91",
+      "latency": "7s",
+      "receiveTimestamp": 1862
+    }
+  },
+  {
+    "roundID": 37,
+    "roundStartTime": 1905,
+    "roundEndTime": 1971,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "97",
+        "latency": "8s",
+        "receiveTimestamp": 1928
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "57",
+        "latency": "10s",
+        "receiveTimestamp": 1929
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "56",
+        "latency": "3s",
+        "receiveTimestamp": 1930
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "52",
+        "latency": "6s",
+        "receiveTimestamp": 1931
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "62",
+        "latency": "6s",
+        "receiveTimestamp": 1932
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "7",
+        "latency": "3s",
+        "receiveTimestamp": 1933
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "77",
+        "latency": "8s",
+        "receiveTimestamp": 1934
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "61",
+        "latency": "10s",
+        "receiveTimestamp": 1935
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "5",
+        "latency": "6s",
+        "receiveTimestamp": 1936
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "58",
+        "latency": "4s",
+        "receiveTimestamp": 1937
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "55",
+        "latency": "5s",
+        "receiveTimestamp": 1938
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "40",
+        "latency": "6s",
+        "receiveTimestamp": 1939
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "63",
+        "latency": "7s",
+        "receiveTimestamp": 1940
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "96",
+        "latency": "5s",
+        "receiveTimestamp": 1941
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "38",
+        "latency": "5s",
+        "receiveTimestamp": 1942
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "91",
+        "latency": "7s",
+        "receiveTimestamp": 1943
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "91",
+        "latency": "5s",
+        "receiveTimestamp": 1944
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "1",
+        "latency": "2s",
+        "receiveTimestamp": 1945
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "48",
+        "latency": "9s",
+        "receiveTimestamp": 1946
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "9",
+        "latency": "7s",
+        "receiveTimestamp": 1947
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "90",
+        "latency": "7s",
+        "receiveTimestamp": 1948
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "28",
+        "latency": "9s",
+        "receiveTimestamp": 1951
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player2",
+      "diceValue": "97",
+      "latency": "8s",
+      "receiveTimestamp": 1928
+    }
+  },
+  {
+    "roundID": 38,
+    "roundStartTime": 1971,
+    "roundEndTime": 2037,
+    "playerSubmissions": [
+      {
+        "playerName": "Player22",
+        "diceValue": "29",
+        "latency": "10s",
+        "receiveTimestamp": 1994
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "44",
+        "latency": "3s",
+        "receiveTimestamp": 1995
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "34",
+        "latency": "3s",
+        "receiveTimestamp": 1996
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "83",
+        "latency": "5s",
+        "receiveTimestamp": 1997
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "77",
+        "latency": "1s",
+        "receiveTimestamp": 1998
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "89",
+        "latency": "5s",
+        "receiveTimestamp": 2000
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "27",
+        "latency": "9s",
+        "receiveTimestamp": 2000
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "96",
+        "latency": "6s",
+        "receiveTimestamp": 2001
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "66",
+        "latency": "6s",
+        "receiveTimestamp": 2002
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "28",
+        "latency": "2s",
+        "receiveTimestamp": 2003
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "34",
+        "latency": "8s",
+        "receiveTimestamp": 2004
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "52",
+        "latency": "8s",
+        "receiveTimestamp": 2005
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "57",
+        "latency": "10s",
+        "receiveTimestamp": 2006
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "52",
+        "latency": "4s",
+        "receiveTimestamp": 2007
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "98",
+        "latency": "6s",
+        "receiveTimestamp": 2008
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "84",
+        "latency": "8s",
+        "receiveTimestamp": 2009
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "14",
+        "latency": "7s",
+        "receiveTimestamp": 2010
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "93",
+        "latency": "1s",
+        "receiveTimestamp": 2011
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "57",
+        "latency": "2s",
+        "receiveTimestamp": 2012
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "70",
+        "latency": "4s",
+        "receiveTimestamp": 2013
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "5",
+        "latency": "4s",
+        "receiveTimestamp": 2014
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "30",
+        "latency": "6s",
+        "receiveTimestamp": 2017
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player14",
+      "diceValue": "98",
+      "latency": "6s",
+      "receiveTimestamp": 2008
+    }
+  },
+  {
+    "roundID": 39,
+    "roundStartTime": 2037,
+    "roundEndTime": 2103,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "61",
+        "latency": "3s",
+        "receiveTimestamp": 2060
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "100",
+        "latency": "6s",
+        "receiveTimestamp": 2061
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "27",
+        "latency": "1s",
+        "receiveTimestamp": 2062
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "28",
+        "latency": "1s",
+        "receiveTimestamp": 2063
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "65",
+        "latency": "10s",
+        "receiveTimestamp": 2064
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "76",
+        "latency": "3s",
+        "receiveTimestamp": 2065
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "7",
+        "latency": "7s",
+        "receiveTimestamp": 2066
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "100",
+        "latency": "5s",
+        "receiveTimestamp": 2067
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "27",
+        "latency": "7s",
+        "receiveTimestamp": 2068
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "45",
+        "latency": "7s",
+        "receiveTimestamp": 2069
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "15",
+        "latency": "1s",
+        "receiveTimestamp": 2070
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "76",
+        "latency": "9s",
+        "receiveTimestamp": 2071
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "73",
+        "latency": "9s",
+        "receiveTimestamp": 2072
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "44",
+        "latency": "7s",
+        "receiveTimestamp": 2073
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "3",
+        "latency": "6s",
+        "receiveTimestamp": 2074
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "79",
+        "latency": "5s",
+        "receiveTimestamp": 2075
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "49",
+        "latency": "6s",
+        "receiveTimestamp": 2076
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "54",
+        "latency": "6s",
+        "receiveTimestamp": 2077
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "55",
+        "latency": "8s",
+        "receiveTimestamp": 2078
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "15",
+        "latency": "10s",
+        "receiveTimestamp": 2079
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "64",
+        "latency": "3s",
+        "receiveTimestamp": 2080
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "85",
+        "latency": "4s",
+        "receiveTimestamp": 2083
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player1",
+      "diceValue": "85",
+      "latency": "4s",
+      "receiveTimestamp": 2083
+    }
+  },
+  {
+    "roundID": 40,
+    "roundStartTime": 2103,
+    "roundEndTime": 2169,
+    "playerSubmissions": [
+      {
+        "playerName": "Player17",
+        "diceValue": "73",
+        "latency": "2s",
+        "receiveTimestamp": 2126
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "91",
+        "latency": "6s",
+        "receiveTimestamp": 2127
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "29",
+        "latency": "4s",
+        "receiveTimestamp": 2128
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "54",
+        "latency": "3s",
+        "receiveTimestamp": 2129
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "71",
+        "latency": "8s",
+        "receiveTimestamp": 2130
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "46",
+        "latency": "3s",
+        "receiveTimestamp": 2131
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "92",
+        "latency": "4s",
+        "receiveTimestamp": 2132
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "99",
+        "latency": "4s",
+        "receiveTimestamp": 2133
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "97",
+        "latency": "8s",
+        "receiveTimestamp": 2134
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "21",
+        "latency": "4s",
+        "receiveTimestamp": 2135
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "81",
+        "latency": "6s",
+        "receiveTimestamp": 2136
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "19",
+        "latency": "1s",
+        "receiveTimestamp": 2137
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "50",
+        "latency": "2s",
+        "receiveTimestamp": 2138
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "51",
+        "latency": "3s",
+        "receiveTimestamp": 2139
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "60",
+        "latency": "3s",
+        "receiveTimestamp": 2140
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "88",
+        "latency": "2s",
+        "receiveTimestamp": 2141
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "33",
+        "latency": "6s",
+        "receiveTimestamp": 2142
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "44",
+        "latency": "5s",
+        "receiveTimestamp": 2143
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "64",
+        "latency": "7s",
+        "receiveTimestamp": 2144
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "55",
+        "latency": "1s",
+        "receiveTimestamp": 2145
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "73",
+        "latency": "9s",
+        "receiveTimestamp": 2146
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "67",
+        "latency": "2s",
+        "receiveTimestamp": 2149
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player7",
+      "diceValue": "99",
+      "latency": "4s",
+      "receiveTimestamp": 2133
+    }
+  },
+  {
+    "roundID": 41,
+    "roundStartTime": 2169,
+    "roundEndTime": 2235,
+    "playerSubmissions": [
+      {
+        "playerName": "Player20",
+        "diceValue": "39",
+        "latency": "9s",
+        "receiveTimestamp": 2192
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "87",
+        "latency": "5s",
+        "receiveTimestamp": 2193
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "21",
+        "latency": "7s",
+        "receiveTimestamp": 2194
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "75",
+        "latency": "3s",
+        "receiveTimestamp": 2195
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "82",
+        "latency": "4s",
+        "receiveTimestamp": 2196
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "1",
+        "latency": "8s",
+        "receiveTimestamp": 2197
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "77",
+        "latency": "7s",
+        "receiveTimestamp": 2198
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "97",
+        "latency": "8s",
+        "receiveTimestamp": 2199
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "47",
+        "latency": "7s",
+        "receiveTimestamp": 2200
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "87",
+        "latency": "3s",
+        "receiveTimestamp": 2201
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "71",
+        "latency": "10s",
+        "receiveTimestamp": 2202
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "40",
+        "latency": "9s",
+        "receiveTimestamp": 2203
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "6",
+        "latency": "7s",
+        "receiveTimestamp": 2204
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "49",
+        "latency": "8s",
+        "receiveTimestamp": 2205
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "47",
+        "latency": "8s",
+        "receiveTimestamp": 2206
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "39",
+        "latency": "3s",
+        "receiveTimestamp": 2207
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "55",
+        "latency": "7s",
+        "receiveTimestamp": 2208
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "92",
+        "latency": "8s",
+        "receiveTimestamp": 2209
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "18",
+        "latency": "5s",
+        "receiveTimestamp": 2210
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "71",
+        "latency": "8s",
+        "receiveTimestamp": 2211
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "36",
+        "latency": "10s",
+        "receiveTimestamp": 2212
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "55",
+        "latency": "1s",
+        "receiveTimestamp": 2215
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player17",
+      "diceValue": "97",
+      "latency": "8s",
+      "receiveTimestamp": 2199
+    }
+  },
+  {
+    "roundID": 42,
+    "roundStartTime": 2235,
+    "roundEndTime": 2301,
+    "playerSubmissions": [
+      {
+        "playerName": "Player20",
+        "diceValue": "30",
+        "latency": "9s",
+        "receiveTimestamp": 2258
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "68",
+        "latency": "7s",
+        "receiveTimestamp": 2259
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "81",
+        "latency": "1s",
+        "receiveTimestamp": 2260
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "56",
+        "latency": "3s",
+        "receiveTimestamp": 2261
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "14",
+        "latency": "1s",
+        "receiveTimestamp": 2262
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "23",
+        "latency": "1s",
+        "receiveTimestamp": 2263
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "33",
+        "latency": "8s",
+        "receiveTimestamp": 2264
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "36",
+        "latency": "4s",
+        "receiveTimestamp": 2265
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "12",
+        "latency": "1s",
+        "receiveTimestamp": 2266
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "35",
+        "latency": "8s",
+        "receiveTimestamp": 2267
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "63",
+        "latency": "3s",
+        "receiveTimestamp": 2268
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "27",
+        "latency": "1s",
+        "receiveTimestamp": 2269
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "34",
+        "latency": "8s",
+        "receiveTimestamp": 2270
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "61",
+        "latency": "8s",
+        "receiveTimestamp": 2271
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "33",
+        "latency": "10s",
+        "receiveTimestamp": 2272
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "64",
+        "latency": "8s",
+        "receiveTimestamp": 2273
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "22",
+        "latency": "3s",
+        "receiveTimestamp": 2274
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "14",
+        "latency": "3s",
+        "receiveTimestamp": 2275
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "57",
+        "latency": "2s",
+        "receiveTimestamp": 2276
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "79",
+        "latency": "4s",
+        "receiveTimestamp": 2277
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "22",
+        "latency": "2s",
+        "receiveTimestamp": 2278
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "90",
+        "latency": "6s",
+        "receiveTimestamp": 2281
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player1",
+      "diceValue": "90",
+      "latency": "6s",
+      "receiveTimestamp": 2281
+    }
+  },
+  {
+    "roundID": 43,
+    "roundStartTime": 2301,
+    "roundEndTime": 2367,
+    "playerSubmissions": [
+      {
+        "playerName": "Player2",
+        "diceValue": "60",
+        "latency": "1s",
+        "receiveTimestamp": 2324
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "22",
+        "latency": "2s",
+        "receiveTimestamp": 2325
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "60",
+        "latency": "4s",
+        "receiveTimestamp": 2326
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "43",
+        "latency": "2s",
+        "receiveTimestamp": 2327
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "88",
+        "latency": "7s",
+        "receiveTimestamp": 2328
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "70",
+        "latency": "6s",
+        "receiveTimestamp": 2329
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "81",
+        "latency": "3s",
+        "receiveTimestamp": 2330
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "55",
+        "latency": "2s",
+        "receiveTimestamp": 2331
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "79",
+        "latency": "10s",
+        "receiveTimestamp": 2332
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "4",
+        "latency": "9s",
+        "receiveTimestamp": 2333
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "35",
+        "latency": "8s",
+        "receiveTimestamp": 2334
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "84",
+        "latency": "6s",
+        "receiveTimestamp": 2336
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "14",
+        "latency": "8s",
+        "receiveTimestamp": 2336
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "66",
+        "latency": "4s",
+        "receiveTimestamp": 2337
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "15",
+        "latency": "2s",
+        "receiveTimestamp": 2338
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "80",
+        "latency": "10s",
+        "receiveTimestamp": 2339
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "72",
+        "latency": "3s",
+        "receiveTimestamp": 2340
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "83",
+        "latency": "10s",
+        "receiveTimestamp": 2341
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "65",
+        "latency": "7s",
+        "receiveTimestamp": 2342
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "20",
+        "latency": "4s",
+        "receiveTimestamp": 2343
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "16",
+        "latency": "2s",
+        "receiveTimestamp": 2344
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "55",
+        "latency": "3s",
+        "receiveTimestamp": 2347
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player21",
+      "diceValue": "88",
+      "latency": "7s",
+      "receiveTimestamp": 2328
+    }
+  },
+  {
+    "roundID": 44,
+    "roundStartTime": 2367,
+    "roundEndTime": 2433,
+    "playerSubmissions": [
+      {
+        "playerName": "Player22",
+        "diceValue": "50",
+        "latency": "9s",
+        "receiveTimestamp": 2390
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "79",
+        "latency": "5s",
+        "receiveTimestamp": 2391
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "56",
+        "latency": "8s",
+        "receiveTimestamp": 2392
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "45",
+        "latency": "7s",
+        "receiveTimestamp": 2393
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "63",
+        "latency": "9s",
+        "receiveTimestamp": 2394
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "97",
+        "latency": "9s",
+        "receiveTimestamp": 2395
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "2",
+        "latency": "1s",
+        "receiveTimestamp": 2396
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "78",
+        "latency": "9s",
+        "receiveTimestamp": 2397
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "42",
+        "latency": "4s",
+        "receiveTimestamp": 2398
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "37",
+        "latency": "2s",
+        "receiveTimestamp": 2399
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "26",
+        "latency": "8s",
+        "receiveTimestamp": 2400
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "40",
+        "latency": "9s",
+        "receiveTimestamp": 2401
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "40",
+        "latency": "6s",
+        "receiveTimestamp": 2402
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "86",
+        "latency": "10s",
+        "receiveTimestamp": 2403
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "99",
+        "latency": "3s",
+        "receiveTimestamp": 2404
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "80",
+        "latency": "4s",
+        "receiveTimestamp": 2405
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "25",
+        "latency": "5s",
+        "receiveTimestamp": 2406
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "95",
+        "latency": "4s",
+        "receiveTimestamp": 2407
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "63",
+        "latency": "7s",
+        "receiveTimestamp": 2408
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "58",
+        "latency": "9s",
+        "receiveTimestamp": 2409
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "93",
+        "latency": "3s",
+        "receiveTimestamp": 2410
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "97",
+        "latency": "3s",
+        "receiveTimestamp": 2413
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player13",
+      "diceValue": "99",
+      "latency": "3s",
+      "receiveTimestamp": 2404
+    }
+  },
+  {
+    "roundID": 45,
+    "roundStartTime": 2433,
+    "roundEndTime": 2499,
+    "playerSubmissions": [
+      {
+        "playerName": "Player17",
+        "diceValue": "33",
+        "latency": "5s",
+        "receiveTimestamp": 2456
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "87",
+        "latency": "6s",
+        "receiveTimestamp": 2457
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "22",
+        "latency": "4s",
+        "receiveTimestamp": 2458
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "93",
+        "latency": "6s",
+        "receiveTimestamp": 2459
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "3",
+        "latency": "6s",
+        "receiveTimestamp": 2460
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "44",
+        "latency": "6s",
+        "receiveTimestamp": 2461
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "88",
+        "latency": "1s",
+        "receiveTimestamp": 2462
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "19",
+        "latency": "10s",
+        "receiveTimestamp": 2463
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "61",
+        "latency": "6s",
+        "receiveTimestamp": 2464
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "93",
+        "latency": "1s",
+        "receiveTimestamp": 2465
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "76",
+        "latency": "9s",
+        "receiveTimestamp": 2466
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "26",
+        "latency": "9s",
+        "receiveTimestamp": 2467
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "16",
+        "latency": "6s",
+        "receiveTimestamp": 2468
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "1",
+        "latency": "10s",
+        "receiveTimestamp": 2469
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "2",
+        "latency": "7s",
+        "receiveTimestamp": 2470
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "13",
+        "latency": "8s",
+        "receiveTimestamp": 2471
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "20",
+        "latency": "2s",
+        "receiveTimestamp": 2473
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "90",
+        "latency": "5s",
+        "receiveTimestamp": 2473
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "91",
+        "latency": "3s",
+        "receiveTimestamp": 2474
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "86",
+        "latency": "6s",
+        "receiveTimestamp": 2475
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "49",
+        "latency": "5s",
+        "receiveTimestamp": 2476
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "16",
+        "latency": "4s",
+        "receiveTimestamp": 2480
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player19",
+      "diceValue": "93",
+      "latency": "6s",
+      "receiveTimestamp": 2459
+    }
+  },
+  {
+    "roundID": 46,
+    "roundStartTime": 2499,
+    "roundEndTime": 2565,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "31",
+        "latency": "3s",
+        "receiveTimestamp": 2522
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "44",
+        "latency": "3s",
+        "receiveTimestamp": 2523
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "27",
+        "latency": "4s",
+        "receiveTimestamp": 2524
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "33",
+        "latency": "1s",
+        "receiveTimestamp": 2525
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "81",
+        "latency": "6s",
+        "receiveTimestamp": 2526
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "47",
+        "latency": "6s",
+        "receiveTimestamp": 2527
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "6",
+        "latency": "8s",
+        "receiveTimestamp": 2528
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "54",
+        "latency": "8s",
+        "receiveTimestamp": 2529
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "1",
+        "latency": "7s",
+        "receiveTimestamp": 2530
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "91",
+        "latency": "3s",
+        "receiveTimestamp": 2531
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "7",
+        "latency": "3s",
+        "receiveTimestamp": 2532
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "31",
+        "latency": "7s",
+        "receiveTimestamp": 2533
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "69",
+        "latency": "3s",
+        "receiveTimestamp": 2534
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "67",
+        "latency": "6s",
+        "receiveTimestamp": 2535
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "30",
+        "latency": "5s",
+        "receiveTimestamp": 2536
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "40",
+        "latency": "9s",
+        "receiveTimestamp": 2537
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "55",
+        "latency": "7s",
+        "receiveTimestamp": 2538
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "98",
+        "latency": "7s",
+        "receiveTimestamp": 2539
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "80",
+        "latency": "6s",
+        "receiveTimestamp": 2540
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "94",
+        "latency": "4s",
+        "receiveTimestamp": 2541
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "7",
+        "latency": "3s",
+        "receiveTimestamp": 2542
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "84",
+        "latency": "9s",
+        "receiveTimestamp": 2545
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player13",
+      "diceValue": "98",
+      "latency": "7s",
+      "receiveTimestamp": 2539
+    }
+  },
+  {
+    "roundID": 47,
+    "roundStartTime": 2565,
+    "roundEndTime": 2631,
+    "playerSubmissions": [
+      {
+        "playerName": "Player7",
+        "diceValue": "83",
+        "latency": "10s",
+        "receiveTimestamp": 2588
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "7",
+        "latency": "10s",
+        "receiveTimestamp": 2589
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "30",
+        "latency": "2s",
+        "receiveTimestamp": 2590
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "87",
+        "latency": "10s",
+        "receiveTimestamp": 2591
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "98",
+        "latency": "2s",
+        "receiveTimestamp": 2592
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "85",
+        "latency": "4s",
+        "receiveTimestamp": 2593
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "54",
+        "latency": "2s",
+        "receiveTimestamp": 2594
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "96",
+        "latency": "2s",
+        "receiveTimestamp": 2595
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "89",
+        "latency": "2s",
+        "receiveTimestamp": 2596
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "38",
+        "latency": "4s",
+        "receiveTimestamp": 2597
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "53",
+        "latency": "7s",
+        "receiveTimestamp": 2598
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "37",
+        "latency": "4s",
+        "receiveTimestamp": 2599
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "38",
+        "latency": "5s",
+        "receiveTimestamp": 2600
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "63",
+        "latency": "5s",
+        "receiveTimestamp": 2601
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "68",
+        "latency": "9s",
+        "receiveTimestamp": 2602
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "83",
+        "latency": "4s",
+        "receiveTimestamp": 2603
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "75",
+        "latency": "4s",
+        "receiveTimestamp": 2604
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "88",
+        "latency": "3s",
+        "receiveTimestamp": 2605
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "84",
+        "latency": "10s",
+        "receiveTimestamp": 2606
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "74",
+        "latency": "10s",
+        "receiveTimestamp": 2607
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "91",
+        "latency": "9s",
+        "receiveTimestamp": 2608
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "65",
+        "latency": "8s",
+        "receiveTimestamp": 2612
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player19",
+      "diceValue": "98",
+      "latency": "2s",
+      "receiveTimestamp": 2592
+    }
+  },
+  {
+    "roundID": 48,
+    "roundStartTime": 2631,
+    "roundEndTime": 2697,
+    "playerSubmissions": [
+      {
+        "playerName": "Player18",
+        "diceValue": "64",
+        "latency": "5s",
+        "receiveTimestamp": 2654
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "26",
+        "latency": "4s",
+        "receiveTimestamp": 2655
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "95",
+        "latency": "1s",
+        "receiveTimestamp": 2656
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "99",
+        "latency": "3s",
+        "receiveTimestamp": 2657
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "34",
+        "latency": "2s",
+        "receiveTimestamp": 2658
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "59",
+        "latency": "3s",
+        "receiveTimestamp": 2659
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "79",
+        "latency": "2s",
+        "receiveTimestamp": 2660
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "13",
+        "latency": "9s",
+        "receiveTimestamp": 2661
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "29",
+        "latency": "9s",
+        "receiveTimestamp": 2662
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "74",
+        "latency": "10s",
+        "receiveTimestamp": 2663
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "94",
+        "latency": "8s",
+        "receiveTimestamp": 2664
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "17",
+        "latency": "10s",
+        "receiveTimestamp": 2665
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "92",
+        "latency": "4s",
+        "receiveTimestamp": 2666
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "86",
+        "latency": "2s",
+        "receiveTimestamp": 2667
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "23",
+        "latency": "6s",
+        "receiveTimestamp": 2668
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "67",
+        "latency": "8s",
+        "receiveTimestamp": 2669
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "67",
+        "latency": "2s",
+        "receiveTimestamp": 2670
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "67",
+        "latency": "8s",
+        "receiveTimestamp": 2671
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "85",
+        "latency": "8s",
+        "receiveTimestamp": 2672
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "59",
+        "latency": "6s",
+        "receiveTimestamp": 2673
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "46",
+        "latency": "3s",
+        "receiveTimestamp": 2674
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "3",
+        "latency": "4s",
+        "receiveTimestamp": 2678
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player22",
+      "diceValue": "99",
+      "latency": "3s",
+      "receiveTimestamp": 2657
+    }
+  },
+  {
+    "roundID": 49,
+    "roundStartTime": 2697,
+    "roundEndTime": 2762,
+    "playerSubmissions": [
+      {
+        "playerName": "Player3",
+        "diceValue": "21",
+        "latency": "3s",
+        "receiveTimestamp": 2720
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "23",
+        "latency": "10s",
+        "receiveTimestamp": 2722
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "2",
+        "latency": "8s",
+        "receiveTimestamp": 2723
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "31",
+        "latency": "10s",
+        "receiveTimestamp": 2724
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "19",
+        "latency": "6s",
+        "receiveTimestamp": 2725
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "30",
+        "latency": "5s",
+        "receiveTimestamp": 2726
+      },
+      {
+        "playerName": "Player22",
+        "diceValue": "96",
+        "latency": "3s",
+        "receiveTimestamp": 2727
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "100",
+        "latency": "7s",
+        "receiveTimestamp": 2728
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "45",
+        "latency": "7s",
+        "receiveTimestamp": 2729
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "39",
+        "latency": "7s",
+        "receiveTimestamp": 2730
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "31",
+        "latency": "7s",
+        "receiveTimestamp": 2731
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "97",
+        "latency": "7s",
+        "receiveTimestamp": 2732
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "10",
+        "latency": "4s",
+        "receiveTimestamp": 2733
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "86",
+        "latency": "2s",
+        "receiveTimestamp": 2734
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "25",
+        "latency": "4s",
+        "receiveTimestamp": 2735
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "72",
+        "latency": "1s",
+        "receiveTimestamp": 2736
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "28",
+        "latency": "1s",
+        "receiveTimestamp": 2737
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "16",
+        "latency": "10s",
+        "receiveTimestamp": 2738
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "83",
+        "latency": "2s",
+        "receiveTimestamp": 2739
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "23",
+        "latency": "1s",
+        "receiveTimestamp": 2743
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player14",
+      "diceValue": "97",
+      "latency": "7s",
+      "receiveTimestamp": 2732
+    }
+  },
+  {
+    "roundID": 50,
+    "roundStartTime": 2762,
+    "roundEndTime": 2828,
+    "playerSubmissions": [
+      {
+        "playerName": "Player22",
+        "diceValue": "20",
+        "latency": "8s",
+        "receiveTimestamp": 2785
+      },
+      {
+        "playerName": "Player17",
+        "diceValue": "8",
+        "latency": "7s",
+        "receiveTimestamp": 2786
+      },
+      {
+        "playerName": "Player21",
+        "diceValue": "94",
+        "latency": "10s",
+        "receiveTimestamp": 2787
+      },
+      {
+        "playerName": "Player18",
+        "diceValue": "35",
+        "latency": "8s",
+        "receiveTimestamp": 2788
+      },
+      {
+        "playerName": "Player2",
+        "diceValue": "74",
+        "latency": "4s",
+        "receiveTimestamp": 2789
+      },
+      {
+        "playerName": "Player7",
+        "diceValue": "93",
+        "latency": "9s",
+        "receiveTimestamp": 2790
+      },
+      {
+        "playerName": "Player16",
+        "diceValue": "87",
+        "latency": "7s",
+        "receiveTimestamp": 2791
+      },
+      {
+        "playerName": "Player20",
+        "diceValue": "23",
+        "latency": "1s",
+        "receiveTimestamp": 2792
+      },
+      {
+        "playerName": "Player19",
+        "diceValue": "56",
+        "latency": "4s",
+        "receiveTimestamp": 2793
+      },
+      {
+        "playerName": "Player3",
+        "diceValue": "86",
+        "latency": "1s",
+        "receiveTimestamp": 2794
+      },
+      {
+        "playerName": "Player8",
+        "diceValue": "92",
+        "latency": "6s",
+        "receiveTimestamp": 2795
+      },
+      {
+        "playerName": "Player4",
+        "diceValue": "61",
+        "latency": "7s",
+        "receiveTimestamp": 2796
+      },
+      {
+        "playerName": "Player12",
+        "diceValue": "90",
+        "latency": "9s",
+        "receiveTimestamp": 2797
+      },
+      {
+        "playerName": "Player9",
+        "diceValue": "85",
+        "latency": "7s",
+        "receiveTimestamp": 2798
+      },
+      {
+        "playerName": "Player13",
+        "diceValue": "3",
+        "latency": "1s",
+        "receiveTimestamp": 2799
+      },
+      {
+        "playerName": "Player15",
+        "diceValue": "36",
+        "latency": "9s",
+        "receiveTimestamp": 2800
+      },
+      {
+        "playerName": "Player11",
+        "diceValue": "6",
+        "latency": "8s",
+        "receiveTimestamp": 2801
+      },
+      {
+        "playerName": "Player10",
+        "diceValue": "91",
+        "latency": "8s",
+        "receiveTimestamp": 2802
+      },
+      {
+        "playerName": "Player14",
+        "diceValue": "85",
+        "latency": "4s",
+        "receiveTimestamp": 2803
+      },
+      {
+        "playerName": "Player6",
+        "diceValue": "96",
+        "latency": "1s",
+        "receiveTimestamp": 2804
+      },
+      {
+        "playerName": "Player5",
+        "diceValue": "48",
+        "latency": "1s",
+        "receiveTimestamp": 2805
+      },
+      {
+        "playerName": "Player1",
+        "diceValue": "63",
+        "latency": "3s",
+        "receiveTimestamp": 2808
+      }
+    ],
+    "winningSubmission": {
+      "playerName": "Player6",
+      "diceValue": "96",
+      "latency": "1s",
+      "receiveTimestamp": 2804
+    }
+  }
+]
