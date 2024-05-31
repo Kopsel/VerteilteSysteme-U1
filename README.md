@@ -48,12 +48,12 @@ ist es also fast unvermeidbar, dass die ersten 1-2 Spielrunden auf Grund der Ver
 nicht repräsentativ sind.
 
 Um genügend auswertbare Ergenisse zu erhalten, habe ich die Spieler ca. 10 Runden spielen lassen.
-Wie erwartet, waren in den ersten beiden Runden noch nicht alle Spieler angemeldet und daher sind
+Wie erwartet waren in den ersten beiden Runden noch nicht alle Spieler angemeldet und daher sind
 diese zu vernachlässigen. Dennoch ist in Runden 5 und 8 der Fall aufgetreten, dass durch die Latenz
 von Spieler C sein Wurf nicht der entsprechenden Runde zugeordet wurde (es existiert hier
 einfach keine Submission für Spieler C). Dementsprechend wurde beispielsweise sein Wurf vom
 Server erst in Runde 6 erfasst und als solcher zugeordnet. Somit entsteht ein fortlaufender Fehler
-auf Seitens des Clients, da er bei hoher Latenz das Startsignal des Servers verpasst und somit 
+auf Seite des Clients, da er bei hoher Latenz das Startsignal des Servers verpasst und somit 
 insgesamt weniger Submissions abgibt als insgesamt Runden gespielt wurden.
 
 ### Aufgabe 2b)
@@ -71,7 +71,7 @@ zuordnen.
 
 ### Aufgabe 2c)
 
-Für diesen Aufagebteil hatte ich geplant, 50 Spieler-Instanzen über `localhost` spielen
+Für diesen Aufgabenteil hatte ich geplant, 50 Spieler-Instanzen über `localhost` spielen
 zu lassen. Allerdings ist hier bereits beim Start des 23ten Spielers die JVM auf meinem
 lokalen System an ihre Grenzen gestoßen (The paging file is too small for this operation to complete).
 Aber selbst mit nur 22 Spielern hat es gut 15 Spielrunden gedauert (150s), bis alle Spieler
